@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/joxx/static-panini#readme",
   "devDependencies": {
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "panini": "^1.6.3"
   }
