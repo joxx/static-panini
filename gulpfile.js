@@ -8,6 +8,9 @@ var folder = {
   build: 'build/'
 };
 
+gulp.task('css', () => {
+  // build css
+});
 
 gulp.task('html', function() {
   return gulp.src(folder.src + 'pages/**/*.html')
